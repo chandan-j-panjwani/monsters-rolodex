@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.4eb961d7.chunk.css",
-    "main.js": "/static/js/main.67738e26.chunk.js",
-    "main.js.map": "/static/js/main.67738e26.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5fa3ce95.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5fa3ce95.js.map",
-    "static/js/2.b4309f00.chunk.js": "/static/js/2.b4309f00.chunk.js",
-    "static/js/2.b4309f00.chunk.js.map": "/static/js/2.b4309f00.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5447779d6f46eb328de4173b9be4f17d.js": "/precache-manifest.5447779d6f46eb328de4173b9be4f17d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.4eb961d7.chunk.css.map": "/static/css/main.4eb961d7.chunk.css.map",
-    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+    "main.css": "/chandan-j-panjwani/monsters-rolodex/static/css/main.4eb961d7.chunk.css",
+    "main.js": "/chandan-j-panjwani/monsters-rolodex/static/js/main.954bfe5d.chunk.js",
+    "main.js.map": "/chandan-j-panjwani/monsters-rolodex/static/js/main.954bfe5d.chunk.js.map",
+    "runtime-main.js": "/chandan-j-panjwani/monsters-rolodex/static/js/runtime-main.24cb8682.js",
+    "runtime-main.js.map": "/chandan-j-panjwani/monsters-rolodex/static/js/runtime-main.24cb8682.js.map",
+    "static/js/2.b4309f00.chunk.js": "/chandan-j-panjwani/monsters-rolodex/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/chandan-j-panjwani/monsters-rolodex/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/chandan-j-panjwani/monsters-rolodex/index.html",
+    "precache-manifest.e959c93653adc8f922ccb62e9231ee5e.js": "/chandan-j-panjwani/monsters-rolodex/precache-manifest.e959c93653adc8f922ccb62e9231ee5e.js",
+    "service-worker.js": "/chandan-j-panjwani/monsters-rolodex/service-worker.js",
+    "static/css/main.4eb961d7.chunk.css.map": "/chandan-j-panjwani/monsters-rolodex/static/css/main.4eb961d7.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/chandan-j-panjwani/monsters-rolodex/static/js/2.b4309f00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fa3ce95.js",
+    "static/js/runtime-main.24cb8682.js",
     "static/js/2.b4309f00.chunk.js",
     "static/css/main.4eb961d7.chunk.css",
-    "static/js/main.67738e26.chunk.js"
+    "static/js/main.954bfe5d.chunk.js"
   ]
 }
